@@ -1,0 +1,13 @@
+.form-container {
+  display: flex;
+  flex-direction: column;
+
+  &__upload {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+}
+
+.form-container > * {
+  width: 100%;
+}
