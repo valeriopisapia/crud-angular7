@@ -6,10 +6,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Database
 Using Firebase Realtime Database.
 You can find the data structure here `/src/json/test.json`
+[More information](https://firebase.google.com/docs/database)
 
 ## Hosting
 Using Firebase hosting.
 Feel free to use whatever you want.
+[More information](https://firebase.google.com/docs/hosting)
 
 ## Install Angular Material 
 
